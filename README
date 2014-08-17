@@ -1,0 +1,1 @@
+This is a little project I had to do for college, which consisted in parsing a logical expression, print the truth table, and draw the expression tree. It can handle the following operators: implication (>), conjunction (&), disjunction (|) and negation (-). Brackets are also allowed.
